@@ -1,0 +1,10 @@
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.AssemblyInfoInputs.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.AssemblyInfo.cs
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\bin\Debug\netcoreapp3.1\InboundService.Domain.deps.json
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\bin\Debug\netcoreapp3.1\InboundService.Domain.dll
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\bin\Debug\netcoreapp3.1\InboundService.Domain.pdb
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.dll
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.pdb
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Domain\obj\Debug\netcoreapp3.1\InboundService.Domain.csproj.AssemblyReference.cache

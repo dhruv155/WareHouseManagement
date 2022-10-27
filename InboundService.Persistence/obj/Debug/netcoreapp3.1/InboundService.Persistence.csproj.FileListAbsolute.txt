@@ -1,0 +1,5 @@
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Persistence\obj\Debug\netcoreapp3.1\InboundService.Persistence.csproj.AssemblyReference.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Persistence\obj\Debug\netcoreapp3.1\InboundService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Persistence\obj\Debug\netcoreapp3.1\InboundService.Persistence.AssemblyInfoInputs.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Persistence\obj\Debug\netcoreapp3.1\InboundService.Persistence.AssemblyInfo.cs
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Persistence\obj\Debug\netcoreapp3.1\InboundService.Persistence.csproj.CoreCompileInputs.cache

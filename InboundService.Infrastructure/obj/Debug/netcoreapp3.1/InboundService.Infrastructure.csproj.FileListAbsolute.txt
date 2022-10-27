@@ -1,0 +1,10 @@
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\bin\Debug\netcoreapp3.1\InboundService.Infrastructure.deps.json
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\bin\Debug\netcoreapp3.1\InboundService.Infrastructure.dll
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\bin\Debug\netcoreapp3.1\InboundService.Infrastructure.pdb
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.AssemblyInfo.cs
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.dll
+C:\Users\Dhruv\source\repos\Assignment\InboundService.Infrastructure\obj\Debug\netcoreapp3.1\InboundService.Infrastructure.pdb
